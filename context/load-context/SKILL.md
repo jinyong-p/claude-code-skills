@@ -1,3 +1,8 @@
+---
+name: load-context
+description: Loads a previously saved work context into the current conversation. Use when the user wants to resume work from a prior session or pick up where they left off.
+---
+
 # load-context
 
 Load a previously saved work context into the current conversation.

@@ -1,3 +1,8 @@
+---
+name: save-context
+description: Saves the current conversation's work context (branch, architecture, task progress) to ~/.claude/context/. Use when the user wants to persist session state before ending a conversation.
+---
+
 # save-context
 
 Save the current conversation's work context to `~/.claude/context/`.

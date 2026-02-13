@@ -2,6 +2,13 @@
 
 Persist and restore work context across Claude Code conversations.
 
+## When to use
+
+- A long-running task spans multiple conversations
+- The conversation context grows too long and you need to start fresh
+- You use git worktrees and switch between different features frequently
+- You want to save progress before ending the day and resume tomorrow
+
 ## What it does
 
 When working on a long-running task across multiple Claude Code sessions, context is lost between conversations. These two skills solve that:
